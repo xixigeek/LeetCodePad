@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':LeetCodePad'
 rootProject.name='My Application'

@@ -1,4 +1,4 @@
-package com.xixigeek.myapplication;
+package com.xixigeek.leetcodepad;
 
 import java.util.HashMap;
 import java.util.Map;
